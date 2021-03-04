@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/66482827/error-when-deploying-lambda-docker-using-aws-cdk
+
 # Welcome to your CDK TypeScript project!
 
 This is a blank project for TypeScript development with CDK.
