@@ -1,3 +1,6 @@
+Having problems with this. Posted questions on
+https://github.com/sbstjn/cdk-lambda-fleet/issues/3
+and
 https://stackoverflow.com/questions/66482827/error-when-deploying-lambda-docker-using-aws-cdk
 
 # Welcome to your CDK TypeScript project!
